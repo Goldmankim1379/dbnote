@@ -1,0 +1,2 @@
+# dbnote
+database lerture note
